@@ -1,7 +1,10 @@
 # clerk-turtle-py
 A program writing what your wanted sentence with Python and Turtle library.
 
-![Screenshot](clerk_ss.png)![Screenshot](clerk_btc_ss.png)![Screenshot](clerk_turkey_ss.png)![Screenshot](clerk_bjk_ss.png)
+![Screenshot](clerk_ss.png)
+# ;btc ![Screenshot](clerk_btc_ss.png)
+# ;motherland ![Screenshot](clerk_turkey_ss.png)
+# ;bjk![Screenshot](clerk_bjk_ss.png)
 
 Codes:
 
